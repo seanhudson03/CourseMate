@@ -134,6 +134,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## Signatures
 ![Sean](/src/signatures/Hudson_Signature.jpg)
-[Elijah](/src/signatures/elijah_signature.png)
-[Oscar](/src/signatures/oscarSignature.png)
+![Elijah](/src/signatures/elijah_signature.png)
+![Oscar](/src/signatures/oscarSignature.png)
 
