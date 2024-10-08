@@ -37,6 +37,65 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+## Decision Making
+
+Decisions will be made on a majority rule basis, where three out of four group 
+members must agree before a decision goes forward. In the event that there is
+a tie, the decision must be altered to compromise until a majority has been
+reached.
+
+## Attendance
+
+Attendance is not mandatory but is recommended. Attendance will become an issue 
+in the event that a group member is found to be contributing significantly less
+than other team members, or that they are failing to communicate with the team.
+Group members must let the team know as soon as possible when they will be absent, 
+and must continue to take their share of the project remotely. Absence does not 
+require an excuse. 
+
+## Assignments
+
+Assignments will be split up based on team member's preference and strengths. If 
+a team member completes their assignment poorly, they may be asked to redo their 
+tasks until they are satisfactory. In the event that a team member does not complete 
+their tasks on time, the team will discuss taking further disciplinary action, and 
+at a minimum create documentation for the issue. 
+
+## Participation
+
+Communication will be handled in person and remotely via a Discord server. Full particpation
+will be monitored via commit history and the Kanban board's assignees feature. If 
+a group member is contributing significantly less than other team members, documentation 
+will be made and further action may be considered. Honoring strengths and interests of 
+team members will be handled by allowing team members their choice of tasks during
+scrum meetings. If a team member is not present, they may not be allowed their first choice. In
+addition, they may not be allowed a vote in any decision making. 
+
+## Meeting Times
+
+Meeting times and locations will be chosen by the team in Discord. If group members cannot attend 
+a meeting, they must give the team notice. Missing a meeting may mean that a team member
+is assigned work that they would not have personally chosen, and they may have difficulty
+contributing as much as required.
+
+## Minutes and Notes
+
+Team members will rotate to determine who takes notes during meetings. Minutes will be provided
+by the current Sprint Backlog, and any other issues team members feel necessary to discuss. 
+
+## Lateness
+
+As long as a team member is not late to the extent that they can not make a meaningful 
+contribution to the discussion, there will not be penalty for lateness. Lateness greater than 
+10 minutes after the meeting start time requires notice. 
+
+## Conversational Courtesy
+
+Team members must remain respectful during discussions. If a team member is found to be 
+disrespectful during a meeting, the team will discuss this issue with a verbal warning, 
+and consider further action if this continues. Group members should have equal opportunity
+to share their thoughts and ideas.
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
@@ -48,6 +107,11 @@ Community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
+
+## Feedback
+
+Feedback will be given in the form of comments on issues. Every team member is 
+allowed to give and recieve feedback.
 
 ## Scope
 
