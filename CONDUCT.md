@@ -133,7 +133,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 ## Signatures
-[Sean](/src/signatures/Hudson_Signature.jpg)
+![Sean](/src/signatures/Hudson_Signature.jpg)
 [Elijah](/src/signatures/elijah_signature.png)
 [Oscar](/src/signatures/oscarSignature.png)
 
