@@ -22,7 +22,9 @@
 - The majority of students access educational tools and apps via laptops/computers.
 
 ### Supporting Data: 
-Out of the responses, all participants selected Laptop/Computer as their most frequently used device for accessing educational tools.
+
+- Out of the responses, all participants selected Laptop/Computer as their most frequently used device for accessing educational tools.
 
 ### Team Action (if any): 
+
 - Ensure that the CourseMate platform is optimized for desktop and laptop usage, and prioritize building a robust web interface along with mobile development.
