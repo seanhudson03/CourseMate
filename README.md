@@ -1,3 +1,7 @@
-# CourseMate App
+# CourseMate
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
