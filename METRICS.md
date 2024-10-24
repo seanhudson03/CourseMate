@@ -8,3 +8,5 @@ Metric 1 (NPS): Create a survey form on a new page with a question on a scale fr
 Metric 2 (Click Through Rate): Track navigation events and impression events through Flutterflow and Firebase Analytics. Create a function to divide the total number of navigation events by the total number of impressions. 
 
 Metric 3 (DAU): Firebase Analytics automatically tracks DAU. No additional code is necessary as this is a built-in metric available through Firebase’s engagement tracking.
+
+Metric 4 (Retention): Track the amount of times a user comes back to the app. Firebase tracks user retention.
