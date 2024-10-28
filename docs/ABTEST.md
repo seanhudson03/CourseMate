@@ -74,6 +74,9 @@ The Search button is relocated to the top of the Home page, ideally embedded wit
 ### Test Name:
 "Single Screen Login vs. Two-Step Login Flow"
 
+### User Story Number:
+User Story 2: User Login
+
 ### Metrics: 
 Using HEART metrics: engagement, retention, and task completion.
 
