@@ -69,3 +69,20 @@ Test (Group B):
 The bottom nav bar displays only two buttons: Home and Survey.
 The Search button is relocated to the top of the Home page, ideally embedded within a search bar or icon for easy visibility.
 
+**Edwin's A/B Test**
+=================
+### Test Name:
+"Single Screen Login vs. Two-Step Login Flow"
+
+### Metrics: 
+Using HEART metrics: engagement, retention, and task completion.
+
+### Hypothesis: 
+Users who are presented with a single screen for login (compared to a two-step process) will log in faster and with fewer drop-offs, resulting in higher engagement rates.
+
+### Experiment: 
+Set up two versions of the login flow: Version A (single screen login) and Version B (two-step login). Measure the time taken to log in, conversion rates, and user feedback using Firebase capabilities.
+
+### Variations: 
+Single screen vs. two-step (e.g., email entry on the first screen, password entry on the second).
+
