@@ -89,3 +89,34 @@ Set up two versions of the login flow: Version A (single screen login) and Versi
 ### Variations: 
 Single screen vs. two-step (e.g., email entry on the first screen, password entry on the second).
 
+**Oscar's A/B Test**
+=================
+### A/B Test Name:
+Onboarding Flow – With/Without Tutorial
+
+### User Story Number:
+US6 Collecting Metrics
+
+### Metrics:
+Adoption: Sign-up completion rate (HEART Metric: Adoption)
+Engagement: Daily Active Users (DAU) following the onboarding experience (HEART Metric: Engagement)
+Task Success: Number of users completing initial onboarding steps within 5 minutes (HEART Metric: Task Success)
+
+### Hypothesis:
+Providing a short, interactive tutorial during onboarding will increase new user sign-ups and engagement with the app’s core features. We hypothesize that a tutorial will help users understand how to navigate the app more effectively, making them more likely to complete onboarding and continue using the app. This will address potential confusion for first-time users, reducing the likelihood of drop-off due to unfamiliarity with app features.
+
+### Experiment:
+Using Firebase Remote Config, we will divide the new user base into two groups, with each group receiving a different onboarding flow:
+
+Group A (Control): Standard onboarding without a tutorial.
+Group B (Test): Enhanced onboarding with a 1-minute tutorial explaining how to search, list, and message in the app.
+
+#### Firebase Analytics Tracking:
+
+Sign-up completion rate: Track users who complete onboarding and sign up successfully.
+Engagement after onboarding: Measure DAU for both groups over the first 7 days post-onboarding.
+Onboarding completion time: Record the time it takes users to complete onboarding, tracking how many complete it within 5 minutes.
+
+### Variations:
+Control (Group A): Onboarding flow without an interactive tutorial, only showing brief descriptions of features.
+Test (Group B): Onboarding flow with a tutorial highlighting app features like searching, listing, and messaging, displayed with animations or tooltips.
