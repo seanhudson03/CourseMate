@@ -112,7 +112,6 @@ Group A (Control): Standard onboarding without a tutorial.
 Group B (Test): Enhanced onboarding with a 1-minute tutorial explaining how to search, list, and message in the app.
 
 #### Firebase Analytics Tracking:
-
 Sign-up completion rate: Track users who complete onboarding and sign up successfully.
 Engagement after onboarding: Measure DAU for both groups over the first 7 days post-onboarding.
 Onboarding completion time: Record the time it takes users to complete onboarding, tracking how many complete it within 5 minutes.
